@@ -1,6 +1,9 @@
 # Microscopic-M1das-Decoder
 An application made to decode Microscopic m1das (X account) tweets.
 
+V1.1 HAS BEEN RELEASED:
+Minor bug fixes
+
 HOW TO USE:
 1. Press the big green code button and download the files as a zip.
 2. In your downloads folder (or whatever location you have downloaded it to), extract the file.
